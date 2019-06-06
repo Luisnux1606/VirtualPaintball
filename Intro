@@ -8,6 +8,12 @@ Steps
 1. Pseudocode
 
 1.1 Write a program to aim with a weapon that return an angles like N,S,E,O
+     *Use sensorlistener and SensorManager to obtain the coordinate, or
+     *Use latitude and longitud for determinate the coordinate.
+     https://www.youtube.com/watch?v=Id-cYVdVpOI
+     https://www.taringa.net/+celulares/desarrolla-tu-brujula-para-android_i3uc7
+     https://www.todavianose.com/tag/python/
+     https://www.taringa.net/+celulares/desarrolla-tu-brujula-para-android_i3uc7
 
 1.2 Write a program to have a measure of the distance
     * Use google maps api to get the coordinates of two points, later rate the distance
